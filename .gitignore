@@ -1,0 +1,4 @@
+venv/
+__pycace__/
+*.__pyc
+.DS_Store
